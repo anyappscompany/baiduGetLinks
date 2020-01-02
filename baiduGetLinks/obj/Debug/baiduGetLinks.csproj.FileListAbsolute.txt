@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\bin\Debug\baiduGetLinks.exe.config
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\bin\Debug\baiduGetLinks.exe
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\bin\Debug\baiduGetLinks.pdb
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\obj\Debug\baiduGetLinks.exe
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\obj\Debug\baiduGetLinks.pdb
+F:\Visual Studio\Projects\baiduGetLinks\baiduGetLinks\obj\Debug\baiduGetLinks.csprojResolveAssemblyReference.cache
